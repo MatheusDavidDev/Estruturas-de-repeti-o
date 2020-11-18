@@ -1,0 +1,13 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Estruturas de repeticao\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Estruturas de repeticao\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.deps.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Estruturas de repeticao\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.runtimeconfig.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Estruturas de repeticao\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.runtimeconfig.dev.json
+C:\Users\mathe\OneDrive\Área de Trabalho\Estruturas de repeticao\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Estruturas de repeticao\Atividade 2\bin\Debug\netcoreapp3.1\Atividade 2.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Estruturas de repeticao\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.csprojAssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Estruturas de repeticao\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.AssemblyInfoInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Estruturas de repeticao\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.AssemblyInfo.cs
+C:\Users\mathe\OneDrive\Área de Trabalho\Estruturas de repeticao\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Estruturas de repeticao\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.dll
+C:\Users\mathe\OneDrive\Área de Trabalho\Estruturas de repeticao\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Estruturas de repeticao\Atividade 2\obj\Debug\netcoreapp3.1\Atividade 2.genruntimeconfig.cache
