@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Estruturas de repeticao\\Atividade 3\\Atividade 3.csproj": {}
+    "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Estruturas-de-repeti-o\\Atividade 3\\Atividade 3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Estruturas de repeticao\\Atividade 3\\Atividade 3.csproj": {
+    "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Estruturas-de-repeti-o\\Atividade 3\\Atividade 3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Estruturas de repeticao\\Atividade 3\\Atividade 3.csproj",
+        "projectUniqueName": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Estruturas-de-repeti-o\\Atividade 3\\Atividade 3.csproj",
         "projectName": "Atividade 3",
-        "projectPath": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Estruturas de repeticao\\Atividade 3\\Atividade 3.csproj",
+        "projectPath": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Estruturas-de-repeti-o\\Atividade 3\\Atividade 3.csproj",
         "packagesPath": "C:\\Users\\mathe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Estruturas de repeticao\\Atividade 3\\obj\\",
+        "outputPath": "C:\\Users\\mathe\\OneDrive\\Área de Trabalho\\Estruturas-de-repeti-o\\Atividade 3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mathe\\AppData\\Roaming\\NuGet\\NuGet.Config"
